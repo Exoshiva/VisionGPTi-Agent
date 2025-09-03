@@ -1,8 +1,9 @@
-# Buy me a Coffee
+# Buy me a Coffee - Verweist auf mein Profil
 buy_me_a_coffee: Exoshiva
 
-# PayPal
-#paypal: dein_paypal_name
+# Eigene Webseite - Ein direkter Link zu Ihrer persönlichen Seite (empfohlen)
+custom: ["https://www.exoshiva.org"]
 
-# Eigene Webseite
-#custom: ['https://novaqcore.io/support']
+# PayPal - Kann bei Bedarf aktiviert werden.
+# Entferne das '#' und ersetze den Platzhalter, um den Link zu aktivieren.
+# paypal: ["MyPayPalUsername"]
