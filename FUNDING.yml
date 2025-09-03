@@ -1,0 +1,13 @@
+# Ermöglicht das Sponsoring direkt über das GitHub Sponsors-Programm.
+# Dies ist der wichtigste Eintrag für die Seite, die Sie erstellen möchten.
+github: [Exoshiva]
+
+# Verweist auf Ihr "Buy me a Coffee"-Profil.
+buy_me_a_coffee: Exoshiva
+
+# Fügt einen benutzerdefinierten Link hinzu, ideal für Ihre persönliche Webseite.
+custom: ["https://www.exoshiva.org"]
+
+# Hier können Sie bei Bedarf weitere Plattformen hinzufügen.
+# Beispiel (auskommentiert):
+# paypal: ["IhrPayPalUsername"]
