@@ -1,0 +1,5 @@
+Entwicklung von KI-gestütztem Phishing
+Deepfake-Technologie für Social Engineering Angriffe
+Nutzung von LLMs zur automatisierten Erstellung von Malware
+Adversarial Attacks gegen KI-Systeme in der Cyberabwehr
+Zukünftige Bedrohungen durch autonome Hacking-Agenten
